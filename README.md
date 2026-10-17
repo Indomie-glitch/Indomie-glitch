@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Indomie-glitch, but you can call me General Indomie
+- 👋 Hi, I’m @Indomie-glitch
 - 👀 I’m interested in many things 
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing at the moment
